@@ -56,6 +56,20 @@ fields_of_interests:
 ## 🛠 &nbsp;Tech Stack
 
 <details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)&nbsp;
+![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=fastapi&logoColor=white)&nbsp;
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)&nbsp;
+
+</details>
+
+<details open>
 <summary><b>🎨 Frontend Development</b></summary>
 <br>
 
@@ -67,20 +81,6 @@ fields_of_interests:
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)&nbsp;
-![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=fastapi&logoColor=white)&nbsp;
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)&nbsp;
 
 </details>
 
